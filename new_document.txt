@@ -1,3 +1,5 @@
 This is a new document.
 
 And now I made a change!
+
+I am Jacob and I made a change at the same time as Taylor
