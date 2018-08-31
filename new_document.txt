@@ -2,5 +2,9 @@ This is a new document.
 
 And now I made a change!
 
+<<<<<<< HEAD
 
 I am Taylor and I made a change the same time as Jacob 
+=======
+I am Jacob and I made a change at the same time as Taylor
+>>>>>>> 729ac330f0e292448325823523a0b540796be518
